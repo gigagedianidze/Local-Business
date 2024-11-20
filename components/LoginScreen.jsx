@@ -59,7 +59,7 @@ export default function LoginScreen() {
               fontFamily:'outfit-R',
               textAlign:'center',
               marginVertical:20,
-            }}>Welcome to the 9MTA community app 
+            }}>Welcome to the 9MTA community SuperApp 
             
         </Text>
         <TouchableOpacity style={[style.btn,{ width:200}]}
@@ -68,7 +68,7 @@ export default function LoginScreen() {
               textAlign:'center',
               color:'#fff',
               fontFamily:'outfit-R'
-            }}>Let's Get Started</Text>
+            }}>Registaration</Text>
         </TouchableOpacity>    
         </View>
     </View>

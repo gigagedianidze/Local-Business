@@ -28,7 +28,7 @@ export default function Slider() {
         fontSize:20,
         padding:20,
       }}>
-        #Special for you
+        #Active Business Listing
       </Text>
 
       <FlatList
